@@ -1,1 +1,2 @@
-Hello, it's the first time to use Git.
+Hello, Git.
+
